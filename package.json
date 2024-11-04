@@ -1,0 +1,19 @@
+{
+  "name": "authorjestmockfunction",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jest": "^29.7.0"
+  }
+}
